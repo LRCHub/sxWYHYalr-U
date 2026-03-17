@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "base_track": "Street Struck",
+  "base_artist": "Big L",
+  "createdAt": "2026-03-17T16:41:01.598946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Street Struck",
+      "artist": "Big L",
+      "has_synced": true,
+      "path": "select/01_Street_Struck_Big_L.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Street Struck (Prod By Lord Finesse)",
+      "artist": "Big L",
+      "has_synced": true,
+      "path": "select/02_Street_Struck_(Prod_By_Lord_Finesse)_Big_L.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "7 - Street Struck",
+      "artist": "Big L",
+      "has_synced": true,
+      "path": "select/03_7_-_Street_Struck_Big_L.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Street Struck",
+      "artist": "Big L",
+      "has_synced": true,
+      "path": "select/04_Street_Struck_Big_L.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Street Struck (Prod By Lord Fi\u0000﻿Street Struck (Prod By Lord Finesse)",
+      "artist": "Big L",
+      "has_synced": true,
+      "path": "select/05_Street_Struck_(Prod_By_Lord_Fi\u0000﻿Street_Struck_(Prod_By_Lord_Finesse)_Big_L.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Street Struck (Paused)",
+      "artist": "Big L",
+      "has_synced": true,
+      "path": "select/06_Street_Struck_(Paused)_Big_L.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Street Struck (instrumental)",
+      "artist": "Big L",
+      "has_synced": true,
+      "path": "select/07_Street_Struck_(instrumental)_Big_L.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Street Struck [Instrumental] (Produced by Lord Finesse)",
+      "artist": "Big L",
+      "has_synced": true,
+      "path": "select/08_Street_Struck_[Instrumental]_(Produced_by_Lord_Finesse)_Big_L.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Street Struck",
+      "artist": "Big L",
+      "has_synced": false,
+      "path": "select/pl_01_Street_Struck_Big_L.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Street Struck",
+      "artist": "Big L",
+      "has_synced": true,
+      "path": "select/localdb_01_Street_Struck_Big_L.lrc",
+      "repo_name": "DEg9ghKtPhI"
+    }
+  ]
+}
